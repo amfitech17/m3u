@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/2x2/mono.m3u8?token=hs06e',2x2
+http://flu.ttk.mx:90/2x2/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/360_HD/mono.m3u8?token=hs06e',360°
+http://flu.ttk.mx:90/360_HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e',Пятый канал
+http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/A-1/mono.m3u8?token=hs06e',Amedia 1
+http://flu.ttk.mx:90/A-1/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e',Amedia 2
+http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Ani/mono.m3u8?token=hs06e',Ani
+http://flu.ttk.mx:90/Ani/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Arena/mono.m3u8?token=hs06e',Матч! Арена
+http://flu.ttk.mx:90/Arena/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Avto24/mono.m3u8?token=hs06e',Авто 24
+http://flu.ttk.mx:90/Avto24/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Belarus24/mono.m3u8?token=hs06e',Беларусь 24
+http://flu.ttk.mx:90/Belarus24/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Bober/mono.m3u8?token=hs06e',Бобёр
+http://flu.ttk.mx:90/Bober/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e',Матч! Боец
+http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Cinema/mono.m3u8?token=hs06e',Cinema
+http://flu.ttk.mx:90/Cinema/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/DaVinci/mono.m3u8?token=hs06e',Da Vinci
+http://flu.ttk.mx:90/DaVinci/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Detskiy/mono.m3u8?token=hs06e',Уникум
+http://flu.ttk.mx:90/Detskiy/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Disney/mono.m3u8?token=hs06e',Солнце
+http://flu.ttk.mx:90/Disney/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Doktor/mono.m3u8?token=hs06e',Доктор
+http://flu.ttk.mx:90/Doktor/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Dom_kino/mono.m3u8?token=hs06e',ДОМ КИНО
+http://flu.ttk.mx:90/Dom_kino/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e',Домашние Животные
+http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Doverie/mono.m3u8?token=hs06e',Москва Доверие
+http://flu.ttk.mx:90/Doverie/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e',ДРАЙВ
+http://flu.ttk.mx:90/Drive/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Evrokino/mono.m3u8?token=hs06e',ЕВРОКИНО
+http://flu.ttk.mx:90/Evrokino/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Explorer/mono.m3u8?token=hs06e',Viasat Explore
+http://flu.ttk.mx:90/Explorer/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e',Матч! Футбол 1
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e',Матч! Футбол 2
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/football_3/mono.m3u8?token=hs06e',Матч! Футбол 3
+http://flu.ttk.mx:90/football_3/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e',Матч! Футбол 3
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e',ФУТБОЛ
+http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Galaxy/mono.m3u8?token=hs06e',Galaxy
+http://flu.ttk.mx:90/Galaxy/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Illuzion+/mono.m3u8?token=hs06e',Иллюзион+
+http://flu.ttk.mx:90/Illuzion+/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/infochannel/mono.m3u8?token=hs06e',infochannel
+http://flu.ttk.mx:90/infochannel/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Karusel/mono.m3u8?token=hs06e',Карусель
+http://flu.ttk.mx:90/Karusel/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/kinohit/mono.m3u8?token=hs06e',Кинохит
+http://flu.ttk.mx:90/kinohit/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/kinopokaz/mono.m3u8?token=hs06e',Кинопоказ
+http://flu.ttk.mx:90/kinopokaz/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e',Кинопремьера
+http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Kinosemia/mono.m3u8?token=hs06e',Kиносемья
+http://flu.ttk.mx:90/Kinosemia/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Kinosvidanie/mono.m3u8?token=hs06e',Киносвидание
+http://flu.ttk.mx:90/Kinosvidanie/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Komediya/mono.m3u8?token=hs06e',Комедия
+http://flu.ttk.mx:90/Komediya/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Krasnaya_Liniya/mono.m3u8?token=hs06e',Красная Линия
+http://flu.ttk.mx:90/Krasnaya_Liniya/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/LDPR/mono.m3u8?token=hs06e',ЛДПР ТВ
+http://flu.ttk.mx:90/LDPR/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Mama/mono.m3u8?token=hs06e',Мама
+http://flu.ttk.mx:90/Mama/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Match_HD/mono.m3u8?token=hs06e',Матч ТВ
+http://flu.ttk.mx:90/Match_HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/MatchTV/mono.m3u8?token=hs06e',Матч ТВ
+http://flu.ttk.mx:90/MatchTV/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Mir/mono.m3u8?token=hs06e',МИР
+http://flu.ttk.mx:90/Mir/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/mir24/mono.m3u8?token=hs06e',МИР 24
+http://flu.ttk.mx:90/mir24/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e',Мосфильм. Золотая коллекция
+http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Moskva_24/mono.m3u8?token=hs06e',Москва 24
+http://flu.ttk.mx:90/Moskva_24/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Mult/mono.m3u8?token=hs06e',МУЛЬТ
+http://flu.ttk.mx:90/Mult/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Muzhskoe_Kino/mono.m3u8?token=hs06e',Mужское Кино
+http://flu.ttk.mx:90/Muzhskoe_Kino/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Muzyka_pervogo/mono.m3u8?token=hs06e',Музыка Первого
+http://flu.ttk.mx:90/Muzyka_pervogo/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Nature/mono.m3u8?token=hs06e',Viasat Nature
+http://flu.ttk.mx:90/Nature/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Nauka/mono.m3u8?token=hs06e',Наука
+http://flu.ttk.mx:90/Nauka/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/NST/mono.m3u8?token=hs06e',НСТ
+http://flu.ttk.mx:90/NST/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/NTV/mono.m3u8?token=hs06e',НТВ
+http://flu.ttk.mx:90/NTV/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e',О!
+http://flu.ttk.mx:90/O!/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/O2TV/mono.m3u8?token=hs06e',O2TV
+http://flu.ttk.mx:90/O2TV/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e',Охота и Рыбалка
+http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/OTR/mono.m3u8?token=hs06e',ОТР
+http://flu.ttk.mx:90/OTR/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Pobeda/mono.m3u8?token=hs06e',Победа
+http://flu.ttk.mx:90/Pobeda/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Poehali/mono.m3u8?token=hs06e',Поехали!
+http://flu.ttk.mx:90/Poehali/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Psihologiya21/mono.m3u8?token=hs06e',Психология 21
+http://flu.ttk.mx:90/Psihologiya21/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Pyatnica/mono.m3u8?token=hs06e',Пятница!
+http://flu.ttk.mx:90/Pyatnica/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Ratnik/mono.m3u8?token=hs06e',Ратник
+http://flu.ttk.mx:90/Ratnik/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/RBC/mono.m3u8?token=hs06e',РБК
+http://flu.ttk.mx:90/RBC/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/REN_TV/mono.m3u8?token=hs06e',РЕН ТВ
+http://flu.ttk.mx:90/REN_TV/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Retro/mono.m3u8?token=hs06e',Ретро
+http://flu.ttk.mx:90/Retro/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Rossiya24/mono.m3u8?token=hs06e',Россия 24
+http://flu.ttk.mx:90/Rossiya24/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/RU.TV/mono.m3u8?token=hs06e',RU.TV
+http://flu.ttk.mx:90/RU.TV/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Russia-1/mono.m3u8?token=hs06e',Россия 1
+http://flu.ttk.mx:90/Russia-1/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Sarafan/mono.m3u8?token=hs06e',Сарафан
+http://flu.ttk.mx:90/Sarafan/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Shanson/mono.m3u8?token=hs06e',Шансон ТВ
+http://flu.ttk.mx:90/Shanson/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Spas/mono.m3u8?token=hs06e',СПАС
+http://flu.ttk.mx:90/Spas/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e',Матч! Страна
+http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/STS/mono.m3u8?token=hs06e',СТС
+http://flu.ttk.mx:90/STS/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/STS_Love/mono.m3u8?token=hs06e',СТС Love
+http://flu.ttk.mx:90/STS_Love/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Super/mono.m3u8?token=hs06e',Суббота!
+http://flu.ttk.mx:90/Super/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e',Т24
+http://flu.ttk.mx:90/T-24/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Teatr/mono.m3u8?token=hs06e',Театр
+http://flu.ttk.mx:90/Teatr/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Telekafe/mono.m3u8?token=hs06e',Телекафе
+http://flu.ttk.mx:90/Telekafe/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Tlum_HD/mono.m3u8?token=hs06e',МУЛЬТ
+http://flu.ttk.mx:90/Tlum_HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Tnomer/mono.m3u8?token=hs06e',ВМЕСТЕ РФ
+http://flu.ttk.mx:90/Tnomer/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TNT/mono.m3u8?token=hs06e',ТНТ
+http://flu.ttk.mx:90/TNT/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TNT_HD/mono.m3u8?token=hs06e',ТНТ
+http://flu.ttk.mx:90/TNT_HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TNT_Music/mono.m3u8?token=hs06e',ТНТ Music
+http://flu.ttk.mx:90/TNT_Music/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TNT4/mono.m3u8?token=hs06e',ТНТ4
+http://flu.ttk.mx:90/TNT4/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/tochka_otryva/mono.m3u8?token=hs06e',Точка Отрыва
+http://flu.ttk.mx:90/tochka_otryva/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TV_3/mono.m3u8?token=hs06e',ТВ3
+http://flu.ttk.mx:90/TV_3/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e',TV1000
+http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TV1000_Action/mono.m3u8?token=hs06e',TV1000 Action
+http://flu.ttk.mx:90/TV1000_Action/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e',TV21
+http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e',ТВЦ
+http://flu.ttk.mx:90/TVC/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/U/mono.m3u8?token=hs06e',Ю
+http://flu.ttk.mx:90/U/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Usadba/mono.m3u8?token=hs06e',Усадьба
+http://flu.ttk.mx:90/Usadba/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e',Viasat History
+http://flu.ttk.mx:90/Viasat_History/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8?token=hs06e',Viasat Sport
+http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e',Вопросы и Ответы
+http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Vremya/mono.m3u8?token=hs06e',ВРЕМЯ
+http://flu.ttk.mx:90/Vremya/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/zagorodnaya_zhizn/mono.m3u8?token=hs06e',Загородная жизнь
+http://flu.ttk.mx:90/zagorodnaya_zhizn/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Zhivaya_Priroda_HD/mono.m3u8?token=hs06e',Живая Природа
+http://flu.ttk.mx:90/Zhivaya_Priroda_HD/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e',Зоопарк
+http://flu.ttk.mx:90/Zoopark/mono.m3u8?token=hs06e
+#EXTINF:0  tvg-logo='http://flu.ttk.mx:90/Zvezda/mono.m3u8?token=hs06e',Звезда
+http://flu.ttk.mx:90/Zvezda/mono.m3u8?token=hs06e

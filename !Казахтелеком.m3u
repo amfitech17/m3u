@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8',Первый Канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/31Kanal_34_35.m3u8',31 канал
+http://sc.id-tv.kz/31Kanal_34_35.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/7_kanal_34_35.m3u8',7 канал
+http://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/A1.m3u8',Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/A2_36_37.m3u8',Amedia 2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/Astana.m3u8',Astana
+http://sc.id-tv.kz/Astana.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/Atameken.m3u8',Atameken Business
+http://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/ElArna_34_35.m3u8',El Arna
+http://sc.id-tv.kz/ElArna_34_35.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/HitTV.m3u8',HIT TV
+http://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/Khabar.m3u8',Хабар
+http://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/Khabar_24.m3u8',Хабар 24
+http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/KTK_34_35.m3u8',КТК
+http://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:0  tvg-logo='http://sc.id-tv.kz/Mir24.m3u8',МИР 24
+http://sc.id-tv.kz/Mir24.m3u8
